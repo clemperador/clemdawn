@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clemdawn
-- 👀 I’m interested in Geology and Mathematical Engineering
-- 🌱 I’m currently learning intermediate and mathematical Python usage.
+- 👀 I’m interested in Mathematical Engineering and Data Science!
+- 🌱 I’m currently learning intermediate and mathematical Python usage, also for Data Science.
 - 💞️ I’m looking to collaborate on anything Python!
 - 📫 How to reach me: @clemcordia on Instagram, @clem_dawn on Twitter!
 
